@@ -1,7 +1,31 @@
 ## 👋 Hey, I'm Ammar
 
-🎮 Interested in Game dev.
-🧠 Currently exploring better game feel, level design, and interactive systems.
+🎮 Interested in Game development, App Development and AI.
+
+## ⚙️ Tech Stack
+
+🎮 **Game Development**
+
+* Unity (2D)
+* C#
+* Blender (basic 3D assets & models)
+
+📱 **App Development**
+
+* Flutter
+* Dart
+
+🧠 **AI & Data**
+
+* Python
+* NLP (Natural Language Processing)
+* Machine Learning basics
+
+☁️ **Tools & Platforms**
+
+* Git & GitHub
+* AWS (learning & projects)
+
 
 ## 📫 Connect With Me
 
