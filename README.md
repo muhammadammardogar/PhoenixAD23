@@ -6,7 +6,7 @@
 
 🎮 **Game Development**
 
-* Unity (2D)
+* Unity 
 * C#
 * Blender (basic 3D assets & models)
 
