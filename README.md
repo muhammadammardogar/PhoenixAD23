@@ -6,7 +6,7 @@
 
 🎮 **Game Development**
 
-* Unity 
+* Unity (2D)
 * C#
 * Blender (basic 3D assets & models)
 
@@ -20,6 +20,16 @@
 * Python
 * NLP (Natural Language Processing)
 * Machine Learning basics
+
+💻 **Programming Languages**
+
+* Java
+* C#
+* Python
+* C++
+* Assembly Language
+* Dart
+  
 
 ☁️ **Tools & Platforms**
 
