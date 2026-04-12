@@ -1,11 +1,12 @@
-permissions:
-  contents: write
 name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs every day
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -14,7 +15,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: yourusername
+          github_user_name: muhammadammardogar
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
